@@ -1,0 +1,38 @@
+{
+  "name": "pouchdb",
+  "version": "3.6.1",
+  "description": "PouchDB is a pocket-sized database.",
+  "repo": "daleharvey/pouchdb",
+  "keywords": [
+    "db",
+    "couchdb",
+    "pouchdb"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "Apache",
+  "main": "dist/pouchdb.js",
+  "scripts": [
+    "dist/pouchdb.js",
+    "dist/pouchdb.min.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "vendor",
+    "npm-debug.log",
+    "phantomjsdriver.log"
+  ],
+  "homepage": "https://github.com/mrusca/pouchdb",
+  "_release": "3.6.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "3.6.1",
+    "commit": "ad512e350628720a8aa61cf890a72120e518654d"
+  },
+  "_source": "https://github.com/mrusca/pouchdb.git",
+  "_target": "3.6.1",
+  "_originalSource": "mrusca/pouchdb"
+}
